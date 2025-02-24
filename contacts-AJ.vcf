@@ -1,0 +1,19 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Antonin JAY
+N:JAY;Antonin;;;
+item1.EMAIL;TYPE=INTERNET:antoninjay@hotmail.fr
+item1.X-ABLabel:
+item2.EMAIL;TYPE=INTERNET:antonin.jay@kedgebs.com
+item2.X-ABLabel:
+item3.TEL:06 67 46 61 52
+item3.X-ABLabel:
+BDAY:--0721
+item4.URL:https\://www.linkedin.com/in/antonin-jay-phd-548291b4/
+item4.X-ABLabel:PROFILE
+NOTE:À la recherche d'un poste axé sur la gestion et l'encadrement de proje
+ ts scientifiques. Docteur en Biologie moléculaire\, virologie.
+PHOTO:https://lh3.googleusercontent.com/contacts/AG6tpzFmLjjKgW1pAzAVoeh4fo
+ rl0aB8ET1yOzOlFyXkqwKkCPdL9rvV
+CATEGORIES:myContacts
+END:VCARD
